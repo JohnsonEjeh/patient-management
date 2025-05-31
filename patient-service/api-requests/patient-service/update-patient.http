@@ -1,0 +1,13 @@
+### update an existing patient
+PUT http://localhost:4000/patients/4b677926-adc5-4a21-bfce-a3b3ecb5a469
+Content-Type: application/json
+
+{
+  "name": "test Uzo",
+  "email": "Ifeanyi@gmail.com",
+  "address": "21 here ave",
+  "dateOfBirth": "1995-09-09"
+}
+
+
+###
