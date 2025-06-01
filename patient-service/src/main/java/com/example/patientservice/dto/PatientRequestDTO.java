@@ -2,7 +2,7 @@ package com.example.patientservice.dto;
 
 import com.example.patientservice.dto.validation.CreatePatientValidationGroup;
 import jakarta.validation.constraints.Email;
-import jakarta.validation.constraints.NotBlank;;
+import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
 import lombok.Data;
 import lombok.Getter;
