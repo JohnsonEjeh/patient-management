@@ -1,5 +1,5 @@
 ### login to get a token
-POST http://localhost:4005/login
+POST http://lb-f971861c.elb.localhost.localstack.cloud:4005/login
 Content-Type: application/json
 
 {
